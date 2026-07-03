@@ -38,7 +38,7 @@ export const PROJECTS = [
     name: "Event Ticketing",
     description:
       "An event ticketing platform where people can browse upcoming events and book tickets straight from the listing.",
-    live: "https://ticketing-app-zckw-n17g667q8-david-ajose-s-projects.vercel.app/",
+    live: "https://ticketing-app-zckw.vercel.app/",
     repo: "https://github.com/Grey-fxtm0",
   },
   {
